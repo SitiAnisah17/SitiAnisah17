@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sitianisah9073@gmail.com**
 
-- ⚡ Fun fact **I am Beautiful**
+- ⚡ Fun fact **I love to sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
