@@ -1,55 +1,29 @@
-<h1 align="center">Hi 👋, I'm <b>Siti Anisah</b></h1>
+<h3 align="center">Aspiring QA Engineer passionate about software quality, usability, and testing.</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD6oNqkEYkrZrDi/giphy.gif" alt="fun gif" width="180"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sitianisah17&label=Profile%20views&color=0e75b6&style=flat" alt="sitianisah17" /> </p>
 
-<h3 align="center">Aspiring <i>QA Engineer</i> passionate about <b>software quality</b>, <b>usability</b>, and <b>testing</b>.</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sitianisah17" alt="sitianisah17" /></a> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sitianisah17&label=Profile%20views&color=0e75b6&style=flat" alt="sitianisah17" />
-</p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
+- 🎓 Final year Informatics Engineering student 
 
-### 👩‍🎓 About Me
-- Currently an **Informatics Engineering student** in my final semester  
-- 🌱 Learning **QA**, exploring **API testing with Postman**, and studying **HTML & CSS**  
-- 🛠️ Skilled in **manual testing** and writing **test cases**  
-- 📫 Reach me at **sitianisah9073@gmail.com**
+- 🌱 Currently learning QA, exploring API testing with Postman, and studying HTML & CSS 
 
----
+- 🛠️ Skilled in manual testing and writing test cases
 
-### 🔗 Connect with me  
+- 📫 How to reach me **sitianisah9073@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://instagram.com/anisanisasiti" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" height="35" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="35" />
-  </a>
+<a href="https://instagram.com/anisanisasiti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anisanisasiti" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" width="40" height="40" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sitianisah17&show_icons=true&locale=en&layout=compact" alt="sitianisah17" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sitianisah17&show_icons=true&locale=en" alt="sitianisah17" /></p>
 
-### 📊 GitHub Stats  
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sitianisah17&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sitianisah17&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<br clear="left" />
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sitianisah17&" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sitianisah17&" alt="sitianisah17" /></p>
