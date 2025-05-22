@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siti Anisah</h1>
-<h3 align="center">A passionate Frontend developer from Indonesia</h3>
+<h3 align="center">Aspiring QA Engineer passionate about software quality, usability, and testing.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sitianisah17&label=Profile%20views&color=0e75b6&style=flat" alt="sitianisah17" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🎓 Final year Informatics Engineering student 
 
-- 💬 Ask me about **HTML & CSS**
+- 🌱 Currently learning QA, exploring API testing with Postman, and studying HTML & CSS 
+
+- 🛠️ Skilled in manual testing and writing test cases
 
 - 📫 How to reach me **sitianisah9073@gmail.com**
-
-- ⚡ Fun fact **I love to sleep**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
